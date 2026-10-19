@@ -68,7 +68,6 @@ public class Member {
 ```
 ````
 <br>
-
 그러면 화면에는 다음과 같이 보일 것이다.
 ```java
 public class Member {
