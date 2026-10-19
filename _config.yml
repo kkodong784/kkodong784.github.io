@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default) # 아직 뭔지 모르겠네 일단 hide 했놓았다
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -115,15 +115,12 @@ analytics:
 # Site Author
 author:
   name             : "Donghwi Ko"
-  avatar           : "assets/imgaes/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "👋Hi, I'm Donghwi Ko. I'm interested in Backend Development"
   location         : "Korea, Seoul"
   email            : "godonghwi23@gmail.com"
 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "godonghwi23@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kkodong784"
