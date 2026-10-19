@@ -75,7 +75,6 @@ public class Member {
     private String name;
 }
 ```
-
 혹시나 다음과 같이 폴더 구조같이 이렇게 텍스트로 표현하고자 한다면 <br>
 다음과 아래과 같이 확장자에 text를 써주면 될 것이다. <br>
 정렬이 그대로 유지된다. 
