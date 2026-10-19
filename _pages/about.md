@@ -7,8 +7,8 @@ author_profile: true
 toc: true # true이면 목차를 표시. false이면 숨김.
 toc_label: "목차" # 목차 영역의 제목을 “목차”로 표시
 ---
-
-## 안녕하세요
+    
+## 안녕하세요 
 
 컴퓨터공학과 1학년 고동휘입니다. 
 
