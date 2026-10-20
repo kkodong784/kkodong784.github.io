@@ -1,5 +1,5 @@
 ---
-title: "[Data Structure]"  작성중...
+title: "[Data Structure]  작성중..."
 categories: 
   - Data Structure
 tags: 
