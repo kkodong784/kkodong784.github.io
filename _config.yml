@@ -126,6 +126,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kkodong784"
+    - label: "Tistory"
+      icon: "fas fa-fw fa-newspaper"
+      url: "https://kodong8774.tistory.com/"
 
 # Site Footer
 footer:
