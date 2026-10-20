@@ -120,7 +120,7 @@ author:
     👋Hi, I'm Donghwi Ko.<br>
     I'm interested in Backend Development
   location         : "Korea, Seoul"
-  email            : "godonghwi23@gmail.com"
+  # email            :
 
   links:
     - label: "GitHub"
