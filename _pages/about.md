@@ -10,6 +10,7 @@ toc_label: "Table of Contents" # 목차 영역의 제목을 “목차”로 표�
 
 
 ## 🍎 About Me
+<img src="/assets/images/me.jpg" alt="me" width="340">
 
 Hi, I'm Donghwi Ko. <br>
 My dream is to become a great backend developer.
