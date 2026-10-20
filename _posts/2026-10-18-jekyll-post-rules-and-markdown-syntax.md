@@ -1,11 +1,14 @@
 ---
 title: Jekyll에서 글 작성 규칙 및 md파일 문법
-tags: [MD, Jekyll]
-style: border
-color: primary
-description: 잘 보이나? 보이면 개꿀
+categories: 
+   - Md
+   - Jekyll
+tags: 
+   - MD
+   - Jekyll
+toc: true
 ---
-
+   
 작성 일자 : 2026/10/19
 
 깃허브 블로그를 만들고 처음으로 끄적이는 첫 포스팅이다. <br>
