@@ -1,5 +1,5 @@
 ---
-title: [Data Structure] 
+title: ""[Data Structure]"" 
 categories: 
   - Data Structure
 tags: 
