@@ -1,7 +1,7 @@
 ---
 title: Jekyll에서 글 작성 규칙 및 md파일 문법
 categories: 
-   - Md
+   - MD
    - Jekyll
 tags: 
    - MD
