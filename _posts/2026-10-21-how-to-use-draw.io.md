@@ -9,7 +9,7 @@ tags:
 toc: true
 ---
 
-2026-10-22 작성
+작성일자: 2026/10/22 
 
 ## 글을 쓰게 된 계기 
 
@@ -18,7 +18,9 @@ toc: true
 바로 draw.io이다. 
 erd 작성, 우리가 짠 코드의 구조와 동작을 다이어그램으로 나타낼 있는 등 굉장히 좋은 기능들이 많다.
 
-아래 공식 깃허브 링크에서 다운로드 하면 된다.
-[다운로드 링크](https://github.com/jgraph/drawio-desktop/releases/tag/v32.5.5)
+아래 공식 깃허브 링크에서 다운로드 하면 된다. <br>
+[다운로드 사이트로 이동](https://github.com/jgraph/drawio-desktop/releases/tag/v32.5.5)
 
-![다운로드 화면](/assets/images/draw-download-screen.png)
+![다운로드 화면](/assets/images/drawio-download-screen.png)
+
+
