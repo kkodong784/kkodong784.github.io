@@ -14,3 +14,4 @@ toc: true
 ## HELLO WORLD
 
 나는 고동휘
+[2026-10-19-first-post.md](2026-10-19-first-post.md)
