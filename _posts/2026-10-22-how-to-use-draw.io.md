@@ -1,11 +1,7 @@
 --- 
-title: "draw.io 사용법" 
-categories: 
-  - ERD 
-  - Draw.io 
-tags:  
-  - ERD 
-  - Draw.io 
+title: "[Tools] draw.io 사용법" 
+categories: [ERD, Draw.io] 
+tags: [ERD, Draw.io] 
 toc: true 
 --- 
 

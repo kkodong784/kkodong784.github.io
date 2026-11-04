@@ -1,19 +1,8 @@
 ---
 title: "[Java] 꼭 알아야하는 자바 문법" 
-categories: 
-   - Java
-   - 복사 호출
-   - 참조 호출
-   - Comparable
-   - 인터페이스
-   - 제네릭
-tags:
-  - Java
-  - 복사 호출
-  - 참조 호출
-  - Comparable
-  - 인터페이스
-  - 제네릭
+categories: [Java, 복사 호출, 참조 호출, Comparable, 인터페이스, 제네릭]
+tags: [Java, 복사 호출, 참조 호출, Comparable, 인터페이스, 제네릭]
+
 toc: true
 ---
 작성 일자: 2026/10/27 ~ 2026/10/29 

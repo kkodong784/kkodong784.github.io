@@ -1,17 +1,7 @@
 ---
 title: "[Data Structure] 리스트"
-categories: 
-  - Data Structure
-  - ADT
-  - 배열 리스트
-  - 연결 리스트
-  
-tags: 
-  - Data Structure
-  - ADT
-  - 배열 리스트
-  - 연결 리스트
-
+categories: [Data Structure, 자료구조, ADT, 배열 리스트, 연결 리스트]
+tags: [Data Structure, ADT, 배열 리스트, 연결 리스트]
 toc: true
 ---
 

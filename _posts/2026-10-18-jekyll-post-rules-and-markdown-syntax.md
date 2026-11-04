@@ -1,11 +1,7 @@
 ---
 title: Jekyll에서 글 작성 규칙 및 md파일 문법
-categories: 
-   - MD
-   - Jekyll
-tags: 
-   - MD
-   - Jekyll
+categories: [MD, Jekyll]
+tags: [MD, Jekyll]
 toc: true
 ---
    
