@@ -4,7 +4,7 @@ categories: [Linux]
 tags: [Linux]
 toc: true
 --- 
-작성 일자: 2026/11/6 ~ (작성중...)
+작성 일자: 2026/11/7 ~ (작성중...)
 
 
 ## 🟩 파일 디스크립터(File Descriptor)
