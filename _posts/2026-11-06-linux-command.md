@@ -1,10 +1,10 @@
 --- 
-title: "[Linux] 리눅스 명령어 정리"
+title: "[Pwnable] pwnable.kr fd writeup"
 categories: [Linux]
 tags: [Linux]
 toc: true
 --- 
-작성 일자: 2026/11/7 ~ (작성중...)
+작성 일자: 미정
 
 
 ## 🟩 파일 디스크립터(File Descriptor)
