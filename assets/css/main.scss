@@ -1,9 +1,36 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
-search: false
+search:false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* 굵은 글자: 분홍색 */
+.page__content strong {
+  color: #f472b6;
+}
+
+/* ## 제목: 파란색 */
+.page__content h2 {
+  color: #3b82f6;
+}
+
+/* ### 제목: 보라색 */
+.page__content h3 {
+  color: #a78bfa;
+}
+
+/* #### 제목: 청록색 */
+.page__content h4 {
+  color: #2dd4bf;
+}
+
+/* 제목 안의 굵은 글자는 제목 색상 유지 */
+.page__content h2 strong,
+.page__content h3 strong,
+.page__content h4 strong {
+  color: inherit;
+}
