@@ -2,6 +2,6 @@
 
 I record my studies!
 
-<a src="https://kkodong784.github.io/">click here!</a>
+<a href="https://kkodong784.github.io/">click here!</a>
 
 ![main-screen](/assets/images/main-screen.png)
