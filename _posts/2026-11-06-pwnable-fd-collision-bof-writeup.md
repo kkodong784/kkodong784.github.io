@@ -97,6 +97,7 @@ ARM, x86과 같은 아키텍처가 대표적인 그 예시인데, 둘을 비교�
 | `$숫자` | 숫자 값 자체 | `mov $10, %eax` | `eax`에 **10**을 넣음 |
 | `%레지스터` | 레지스터에 들어 있는 값 | `mov %esp, %eax` | `esp`의 값을 `eax`에 복사 |
 
+
 ## 문제 풀이
 
 ### FD 
@@ -116,7 +117,7 @@ ps -ef              |              grep java
 어셈블리어 코드를 읽어볼 것이다. 
 
 아래는 bof.c 이다. 
-````c
+````
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -142,7 +143,7 @@ int main(int argc, char* argv[]) {
 ````
 
 이를 gdb를 통해서 C의 func함수를 기계어를 어셈블리로(디스어셈블) 확인한다면 다음과 같다.
-````asm 
+````asm
    0x000011fd <+0>:	push   %ebp
    0x000011fe <+1>:	mov    %esp,%ebp
    0x00001200 <+3>:	push   %esi
@@ -196,8 +197,8 @@ int main(int argc, char* argv[]) {
    0x0000129c <+159>:	ret
 ````
 
-이제 읽어보도록 하자. 
-
+이제 읽어보도록 하자.
+(작성중)
 
 
 
