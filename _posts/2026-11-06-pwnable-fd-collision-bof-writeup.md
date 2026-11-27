@@ -93,6 +93,7 @@ ARM, x86과 같은 아키텍처가 대표적인 그 예시인데, 둘을 비교�
 
 
 ### 3. 어셈블리 시작하기
+
 | 표기 | 의미 | 예시 | 해석 |
 |---|---|---|---|
 | `$숫자` | 숫자 값 자체 | `mov $10, %eax` | `eax`에 **10**을 넣음 |
@@ -104,13 +105,16 @@ ARM, x86과 같은 아키텍처가 대표적인 그 예시인데, 둘을 비교�
 ### FD 
 #### 🟩 파일 디스크립터(File Descriptor)
 (파일 디스크립터 설명 참고)
+
 1. https://tifferent.tistory.com/34
 2. https://code4human.tistory.com/123
+
 #### 🟩 ps
 #### 🟩grep
 `ps -ef | grep java`
 ps -ef              |              grep java
 전체 프로세스 출력 → 출력을 전달 → java가 포함된 줄만 표시
+
 ### COLLOSION
 ### BOF
 
